@@ -1,4 +1,4 @@
-# Paraview Blank Project
+# ParaviewWeb Blank Project
 
 ## Development
 

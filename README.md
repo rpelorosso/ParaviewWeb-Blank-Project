@@ -35,7 +35,7 @@ The ``build.sh`` script runs this.
 To run the server, you need to run pvpython, you can do this with:
 
 ```
-/opt/paraview/bin/pvpython -dr "path to python script for server" --content "path to the created dist folder" --port 8080
+<path to paraview>/bin/pvpython -dr "<path to python script for server>" --content "<path to the created dist folder>" --port 8080
 ````
 (for testing I used the light-viz python file for the server)
 

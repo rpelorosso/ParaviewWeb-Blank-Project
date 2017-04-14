@@ -1,5 +1,5 @@
 {
-  "name": "hornero",
+  "name": "blank",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -53,7 +53,7 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "bin": {
-    "LightViz": "./bin/hornero.js"
+    "ParaviewBlankProject": "./bin/paraviewBlankProject.js"
   },
   "preferGlobal": true,
   "config": {
